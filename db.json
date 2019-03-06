@@ -1,0 +1,26 @@
+{
+  "users":[
+    {"id":1,"nama":"Vinita","alamat":"Philippines"},
+    {"id":2,"nama":"Cordie","alamat":"Indonesia"},
+    {"id":3,"nama":"Tomaso","alamat":"Indonesia"},
+    {"id":4,"nama":"Carce","alamat":"Poland"},
+    {"id":5,"nama":"Michaella","alamat":"Indonesia"},
+    {"id":6,"nama":"Jodie","alamat":"France"},
+    {"id":7,"nama":"Sheilah","alamat":"China"},
+    {"id":8,"nama":"Junina","alamat":"Russia"},
+    {"id":9,"nama":"Zonda","alamat":"Philippines"},
+    {"id":10,"nama":"Rustin","alamat":"Sudan"},
+    {"id":11,"nama":"Dacey","alamat":"France"},
+    {"id":12,"nama":"Trey","alamat":"Portugal"},
+    {"id":13,"nama":"Roth","alamat":"France"},
+    {"id":14,"nama":"Giff","alamat":"Philippines"},
+    {"id":15,"nama":"Simonette","alamat":"China"},
+    {"id":16,"nama":"Reina","alamat":"Fiji"},
+    {"id":17,"nama":"Chuck","alamat":"French Polynesia"},
+    {"id":18,"nama":"Garrik","alamat":"France"},
+    {"id":19,"nama":"Reynold","alamat":"China"},
+    {"id":20,"nama":"Carmelia","alamat":"Indonesia"}
+]
+
+
+}
